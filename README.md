@@ -1,6 +1,6 @@
 # Episode Counter API
 
-This is a simple RESTful API built with Node.js and Express.js to keep track of your favorite TV shows and their episodes.
+This is a simple RESTful API built with Java and Spring to keep track of your favorite TV shows and their episodes.
 
 ## Features
 
